@@ -1,9 +1,29 @@
-### Hi there 👋
+<h1>Hi, I'm Ivan!</h1>
+
+<h2>🔭 Certifications:</h2>
+
+- CompTIA A+ ce
+- CompTIA Network+ ce
+- CompTIA Security+ ce
+- Amazon AWS Certified Practitioner
+- Microsoft 365 Fundamentals
+- Microsoft Certified Professional (defunct)
+
+<h2>👨‍💻 Software Projects:</h2>
+
+- <b>Coming soon</b>
+
+<h2>📺 My YouTube videos:</h2>
+
+- [Ars Veritas Media](https://www.youtube.com/channel/UCupzBGDlpbSYBqF-g7o_nHA)
+
+<h2> 🤳 Contact me:</h2>
+
+[linkedin]: https://www.linkedin.com/in/ivan-lafollette/
 
 <!--
-**ivanlafollette/ivanlafollette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ivanlafollette/ivanlafollette1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
