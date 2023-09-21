@@ -1,4 +1,5 @@
 <h1>Hi, I'm Ivan!</h1>
+<h1>I started working at NIH scientific support in August, 2023, but I will continue to stay busy working on projects!</h1>
 
 <h2>🔭 Certifications:</h2>
 
@@ -11,7 +12,7 @@
 
 <h2>👨‍💻 Software Projects:</h2>
 
-- <b>Coming soon</b>
+- <b>Working on small Python projects</b>
 
 <h2>📺 My YouTube videos:</h2>
 
