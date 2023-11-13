@@ -8,11 +8,11 @@
 - CompTIA Security+ ce
 - Amazon AWS Certified Practitioner
 - Microsoft 365 Fundamentals
-- Microsoft Certified Professional (defunct)
+- Microsoft Certified Professional
 
 <h2>👨‍💻 Software Projects:</h2>
 
-- <b>Working on small Python projects</b>
+- <b>Working on Python projects</b>
 
 <h2>📺 My YouTube videos:</h2>
 
