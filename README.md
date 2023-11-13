@@ -20,14 +20,11 @@
 
 <h2>🤳 My personal site</h2>
 
-- [Ars Veritas Media](https://www.youtube.com/channel/UCupzBGDlpbSYBqF-g7o_nHA)
 - [Ivan LaFollette's reel](https://www.ivanlafollette.com/)
 
 <h2> 📫 Contact me:</h2>
 
-[<img align="left" alt="IvanLaFollette | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-- [linkedin](https://www.linkedin.com/in/ivan-lafollette/)
+[<img align="left" alt="IvanLaFollette | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin][linkedin](https://www.linkedin.com/in/ivan-lafollette/)
 
 <!--
 **ivanlafollette/ivanlafollette1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
