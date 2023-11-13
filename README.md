@@ -19,6 +19,8 @@
 - [Ars Veritas Media](https://www.youtube.com/channel/UCupzBGDlpbSYBqF-g7o_nHA)
 
 <h2>🤳 My personal site</h2>
+
+- [Ars Veritas Media](https://www.youtube.com/channel/UCupzBGDlpbSYBqF-g7o_nHA)
 - [Ivan LaFollette's reel](https://www.ivanlafollette.com/)
 
 <h2> 📫 Contact me:</h2>
