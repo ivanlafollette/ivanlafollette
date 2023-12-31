@@ -13,6 +13,7 @@
 <h2>👨‍💻 Software Projects:</h2>
 
 - <b>Working on Python at the moment.</b>
+- <b>Taking the Harvard CS50 course through edX. Very cool!</b>
 
 <h2>📺 My YouTube videos:</h2>
 
