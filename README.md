@@ -14,6 +14,7 @@
 
 - <b>Working on Python at the moment.</b>
 - <b>Taking the Harvard CS50 course through edX. Very cool!</b>
+- <b>Also working on material, HTML, CSS, JS, from the Odin Project. Fun stuff!</b>
 
 <h2>📺 My YouTube videos:</h2>
 
