@@ -2,6 +2,7 @@
 <h1>I started working at NIH scientific support in August, 2023, but I will continue to stay busy working on projects!</h1>
 
 <h2>🌱Education</h2>
+
 - Bachelor of Science, University of Oregon
 - Master of Science, Digital Media Management, Arkansas State University
 
