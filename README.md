@@ -17,8 +17,7 @@
 
 <h2>👨‍💻 Software Projects:</h2>
 
-- <b>Working on Python at the moment.</b>
-- <b>Also delving into AI in all its various forms.</b>
+- <bDelving into AI in all its various forms.</b>
 
 <h2>📺 My YouTube videos:</h2>
 
