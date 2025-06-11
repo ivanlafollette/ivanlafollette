@@ -17,7 +17,7 @@
 
 <h2>👨‍💻 Software Projects:</h2>
 
-- <bDelving into AI in all its various forms.</b>
+- <b>Delving into AI in all its various forms.</b>
 
 <h2>📺 My YouTube videos:</h2>
 
