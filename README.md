@@ -1,6 +1,8 @@
 <h1>Hi, I'm Ivan!</h1>
 <h1>I started working at NIH scientific support in August, 2023, but I will continue to stay busy working on projects!</h1>
 
+<h1>I'm currently in school part-time and studying for the Microsoft Azure Administrator, Cisco CCNA, and CompTIA Linux+ certifications. Yes, I'm busy, busy, busy!</h1>
+
 <h2>🌱 Education:</h2>
 
 - Bachelor of Science, University of Oregon
